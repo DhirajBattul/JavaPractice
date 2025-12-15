@@ -1,0 +1,3 @@
+this is BufferedWriter1 
+this is BufferedWriter2
+this is BufferedWriter3
